@@ -1,0 +1,15 @@
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.exe
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.deps.json
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.runtimeconfig.json
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.dll
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.pdb
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.AssemblyReference.cache
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfoInputs.cache
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfo.cs
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.CoreCompileInputs.cache
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.dll
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\refint\Lucktext.dll
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.pdb
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.genruntimeconfig.cache
+c:\Users\elev\Documents\prog\Lucktext\Lucktext\obj\Debug\net6.0\ref\Lucktext.dll
